@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Beocca, MascVariant HumanCleric
 
 * *Player*: Santto, 

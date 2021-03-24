@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 
 # E'sum Ath Tel' Male Eladrin (Variant)Wizard 
 

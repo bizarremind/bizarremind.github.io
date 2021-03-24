@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 
 # Justin Thyme, Human, Warlock
 

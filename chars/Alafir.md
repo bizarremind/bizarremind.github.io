@@ -1,3 +1,6 @@
+---
+layout: default
+---
 
 # Alafir Dunk masculinoHalf-OrcPaladin 
 

@@ -1,5 +1,8 @@
+---
+layout: default
+---
 
-= Yapá Vonoa,Mountain Dwarf Barbarian 
+# Yapá Vonoa,Mountain Dwarf Barbarian 
 
 * *Jogador*: Cris
 * https://www.dndbeyond.com/profile/CristianoFX/characters/28686916
