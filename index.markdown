@@ -32,6 +32,7 @@ layout: default
 
 ### Temporada 2 - Aliados no Abismo 
 
+|Intro|[log](season02/Intro.md)|[audio]()|[video]()|
 |S02E01|[log](season02/01.md)|[audio]()|[video]()|
 |S02E02|[log](season02/02.md)|[audio]()|[video]()|
 |S02E03|[log](season02/03.md)|[audio]()|[video]()|

@@ -20,6 +20,7 @@
   <body>
       <div id="header">
         <nav>
+		<li class="fork"><a href="/">Home</a>&nbsp;</li>
           <li class="fork"><a target="_blank" href="https://app.roll20.net/campaigns/details/8068538/bizarre-mind-chapter-2">Roll20</a>&nbsp;</li>
           <li class="fork"><a target="_blank" href="https://www.dndbeyond.com/campaigns/1121969">DndBeyond</a>&nbsp;</li>
           <li class="fork"><a target="_blank" href="https://discord.com/channels/799576434913837077/799576435374948356">Discord</a>&nbsp;</li>
@@ -35,7 +36,7 @@
 
       <section>
         <div id="title">
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
+          <h1><a href="/">{{ site.title | default: site.github.repository_name }}</a></h1>
           <p>{{ site.description | default: site.github.project_tagline }}</p>
           <hr>
           <span class="credits left">Mande sua contribuição - <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
