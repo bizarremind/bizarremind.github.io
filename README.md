@@ -1,1 +1,0 @@
-# bizarremind.github.io
